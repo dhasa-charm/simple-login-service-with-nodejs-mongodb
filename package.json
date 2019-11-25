@@ -17,9 +17,9 @@
   "author": "Yuvaraj V",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shivarajnaidu/simple-login-service-with-nodejs-mongodb/issues"
+    "url": "https://github.com/dhasa-charm/simple-login-service-with-nodejs-mongodb/issues"
   },
-  "homepage": "https://github.com/shivarajnaidu/simple-login-service-with-nodejs-mongodb#readme",
+  "homepage": "https://github.com/dhasa-charm/simple-login-service-with-nodejs-mongodb#readme",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "bcrypt": "^3.0.6",
